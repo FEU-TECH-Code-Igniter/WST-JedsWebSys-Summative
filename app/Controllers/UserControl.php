@@ -1,7 +1,5 @@
 <?php
 
-
-
 namespace AppControllers;
 
 class Home extends BaseController
