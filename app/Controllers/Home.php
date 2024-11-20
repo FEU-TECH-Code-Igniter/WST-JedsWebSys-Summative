@@ -9,6 +9,11 @@ class Home extends BaseController
         return view('landing');
     }
 
+     public function landing(): string
+    {
+        return view('landing');
+    }
+    
     public function about(): string
     {
         return view('about');
