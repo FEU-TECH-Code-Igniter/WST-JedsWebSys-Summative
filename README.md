@@ -16,7 +16,7 @@
 
 <br/>
 
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WST-TX32-Demo-Project)
+![](https://visit-counter.vercel.app/counter.png?page=FEU-TECH-Code-Igniter/WST-JedsWebSys-Summative)
 
 ---
 
@@ -26,7 +26,6 @@
     <li>
       <a href="#overview">Overview</a>
       <ol>
-        <li><a href="#key-components">Key Components</a></li>
         <li><a href="#technology">Technology</a></li>
       </ol>
     </li>
@@ -40,6 +39,14 @@
 ## Overview
 
 **Jed's Web Sys** is a team composed of IT students working to create web pages in accordance to their requirements in their subject "Web Systems and Development."
+
+### Members
+<a href="https://github.com/Cashmereee06"><img src="https://avatars.githubusercontent.com/u/159912341?v=4" alt="Callangan" width="130" height="130">
+<a href="https://github.com/Laezi12"><img src="https://avatars.githubusercontent.com/u/86827446?v=4" alt="Castañeda" width="130" height="130">
+<a href="https://github.com/Chuumaruuu"><img src="https://avatars.githubusercontent.com/u/144074094?v=4" alt="Gabinete" width="130" height="130">
+<a href="https://github.com/rayrcreo"><img src="https://avatars.githubusercontent.com/u/84557805?v=4" alt="Mongcal" width="130" height="130">
+<a href="https://github.com/Krus0917"><img src="https://avatars.githubusercontent.com/u/135810632?v=4" alt="Montinola" width="130" height="130">
+<a href="https://github.com/anon321123"><img src="https://avatars.githubusercontent.com/u/144293822?v=4" alt="Tuazon" width="130" height="130">
 
 ### Technology
 
