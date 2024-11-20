@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/zyx-0314/">
-    <img src="./assets/logo.png" alt="JWS Logo" width="130" height="130">
+    <img src="./public/img/logo.png" alt="JWS Logo" width="130" height="130">
   </a>
   <h3 align="center">Jed's Web Sys</h3>
 </div>
