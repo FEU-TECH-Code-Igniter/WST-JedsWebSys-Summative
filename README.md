@@ -70,3 +70,4 @@
 | CodeIgniter 4 Docs   | Reference for CodeIgniter 4 framework usage              | https://codeigniter.com/userguide4 |
 | MySQL Documentation  | Resource for MySQL database management                   | https://dev.mysql.com/doc          |
 | XAMPP                | XAMPP is the most popular PHP development environment    | https://www.apachefriends.org/     |
+| FIGMA                | FIGMA is used to make UI Design of the Website           | https://www.figma.com/design/cygkiWQCfxOXZQUywGlFkm/WST-JedsWebSys-Summative?node-id=0-1&t=i65Oe8vTk0ZQ8o4H-1     |
