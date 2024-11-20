@@ -19,5 +19,8 @@ class Home extends BaseController
         return view('content');
     }
 
-
+    public function about(): string
+    {
+        return view('about');
+    }
 }
