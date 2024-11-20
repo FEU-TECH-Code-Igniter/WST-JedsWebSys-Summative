@@ -9,11 +9,11 @@ class Home extends BaseController
         return view('landing');
     }
 
-    public function landing(): string
+     public function landing(): string
     {
         return view('landing');
     }
-
+    
     public function about(): string
     {
         return view('about');
@@ -22,5 +22,10 @@ class Home extends BaseController
     public function content(): string
     {
         return view('content');
+    }
+
+    public function about(): string
+    {
+        return view('about');
     }
 }
