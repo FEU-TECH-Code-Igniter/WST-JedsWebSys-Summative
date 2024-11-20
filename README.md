@@ -58,9 +58,10 @@
 
 ## Roadmap
 
-1. **Database Connection**: Create a connection from the database to pages.
-2. **Simple Figma Design**: Create a simple Figma design of 3 pages.
-3. **WebPages**: Create 3 pages based on Figma design.
+1. **Database**: Create a database.
+2. **Database Connection**: Create a connection from the database to pages.
+3. **Simple Figma Design**: Create a simple Figma design of 3 pages.
+4. **WebPages**: Create 3 pages based on Figma design.
 
 ## Resources
 
