@@ -8,9 +8,7 @@ class UserModel extends Model
 {
     protected $table = 'tb_promotional';
     protected $primaryKey = 'id';
-    protected $allowedFields = ['title', 'content', 'created_at'];
+    protected $allowedFields = ['title', 'content'];
 
-    protected $returnType = 'array';
-    protected $useTimestamps = true;
 
 }

@@ -1,0 +1,4 @@
+CRITICAL - 2024-11-20 13:31:37 --> ErrorException: Cannot redeclare App\Controllers\Home::about()
+[Method: GET, Route: /]
+in APPPATH\Controllers\Home.php on line 27.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
